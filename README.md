@@ -1,0 +1,6 @@
+# My-Task-Application
+
+This is a **TASK MANGEMENT APPLICATION**.<br/>
+It primarily involves the database management using **SQLite Database**. This self-project has introduced me to the concept of **ItemTouchHelper** class and **managing Dialogs** in an android application.
+
+ <img src="https://github.com/saranshg20/My-Task-Application/blob/main/Screenshots/Image_1.png" width="250"> | <img src="https://github.com/saranshg20/My-Task-Application/blob/main/Screenshots/Image_2.png" width="250"> | <img src="https://github.com/saranshg20/My-Task-Application/blob/main/Screenshots/Image_3.png" width="250"> | <img src="https://github.com/saranshg20/My-Task-Application/blob/main/Screenshots/Image_4.png" width="250"> | <img src="https://github.com/saranshg20/My-Task-Application/blob/main/Screenshots/Image_5.png" width="250"> | <img src="https://github.com/saranshg20/My-Task-Application/blob/main/Screenshots/Image_6.png" width="250"> | <img src="https://github.com/saranshg20/My-Task-Application/blob/main/Screenshots/Image_7.png" width="250"> | <img src="https://github.com/saranshg20/My-Task-Application/blob/main/Screenshots/Image_8.png" width="250"> | <img src="https://github.com/saranshg20/My-Task-Application/blob/main/Screenshots/Image_9.png" width="250">
